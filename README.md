@@ -1,1 +1,1 @@
-# LegacyCalc
+This is program built in a legacy coding class using Fortran. It does relatively simple calculations such as mean and standard deviation. To run this you basically need to download the big file and have an IDE which can run Fortran code. 
